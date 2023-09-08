@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://milanzitka.cz">Milan</a>!</h1>
 
+🏙️ I'm currently based in Prague
+
 🔭 I’m currently working in [@digitalvisioncz](https://github.com/digitalvisioncz)
 
 🌱 I’m currently learning Typescript and Web Components
