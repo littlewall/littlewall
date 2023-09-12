@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://milanzitka.cz">Milan</a>!</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://milanzitka.cz">Milan Zítka</a>!</h1>
 
 🏙️ I'm currently based in Prague
 
